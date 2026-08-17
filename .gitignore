@@ -1,0 +1,32 @@
+# --- Secrets: never commit ---
+.env
+.env.local
+*.env
+firebase_key.json
+*serviceAccount*.json
+*-firebase-adminsdk-*.json
+
+# --- Python ---
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- Node ---
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-error.log*
+
+# --- Firebase / tooling ---
+firebase-debug.log
+.firebase/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

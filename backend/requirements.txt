@@ -1,0 +1,12 @@
+# 연구 실행 당시 venv 에 설치되어 있던 버전 (Python 3.12)
+# openai 는 0.28 계열 API(openai.ChatCompletion)를 사용하므로 상위 버전과 호환되지 않습니다.
+fastapi==0.115.5
+starlette==0.41.2
+uvicorn==0.32.0
+pydantic==2.9.2
+email-validator==2.2.0
+python-dotenv==1.0.1
+openai==0.28.0
+firebase-admin==6.6.0
+google-cloud-firestore==2.19.0
+passlib==1.7.4
