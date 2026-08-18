@@ -10,6 +10,8 @@ of Human–Computer Interaction* 42(14), 11366–11378 (2025).
 [DOI](https://doi.org/10.1080/10447318.2025.2593550) · one-week study, 30 participants.
 
 ## Features
+<img width="965" height="647" alt="image" src="https://github.com/user-attachments/assets/929588a9-9482-4926-a4c3-d501fc71138c" />
+
 
 | | |
 |---|---|
@@ -18,6 +20,9 @@ of Human–Computer Interaction* 42(14), 11366–11378 (2025).
 | **Goal-based visualization** — post-entry Likert survey scored onto a calendar graph | `pages/LikertScaleSurvey.js`, `pages/Chart.js` |
 
 ## Dual-prompt framework
+
+<img width="1035" height="487" alt="image" src="https://github.com/user-attachments/assets/3e604c05-9cd4-4a0b-9a66-6ae03c59f2c7" />
+
 
 Conversations run in two phases: a **Main Prompt** opens with empathic, open-ended questions for
 emotional exploration, then a **Wrapping Prompt** closes the session by connecting the day's
